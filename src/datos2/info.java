@@ -20,7 +20,7 @@ public class info extends Object {
     }
 
     public String getNombre() {
-        return "el nombre es: " + nombre;
+        return "El nombre es: " + nombre;
     }
 
     public void setNombre(String nombre) {
@@ -28,7 +28,7 @@ public class info extends Object {
     }
 
     public String getCarrera() {
-        return "la carrera cursando es: " + carrera;
+        return "La carrera cursando es: " + carrera;
     }
 
     public void setCarrera(String carrera) {
@@ -36,7 +36,7 @@ public class info extends Object {
     }
 
     public String getMatricula() {
-        return "la matricula del estudiante es: " + matricula;
+        return "La matrícula del estudiante es: " + matricula;
     }
 
     public void setMatricula(String matricula) {

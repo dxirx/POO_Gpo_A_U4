@@ -15,9 +15,9 @@ public class Datos2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        info data = new info ("Chan","ISC","0313");
+        info data = new info ("Nicolás","ISC","0313");
         String datos = data.getNombre()+"\n"+data.getCarrera()+"\n"+data.getMatricula();
-       System.out.println("********informacion del alumno********");
+       System.out.println("********Información del alumno********");
         System.out.printf(datos);
         
     }
